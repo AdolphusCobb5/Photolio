@@ -1,0 +1,84 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body header h2 {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: xx-large;
+    text-align: center;
+    color: #645F57;
+}
+layout {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    display: table-column-group;
+    width: 0px;
+    height: 0px;
+    min-width: 0px;
+    max-width: 0px;
+    max-height: 0px;
+    min-height: 0px;
+}
+subheading {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-size: small;
+    font-style: italic;
+}
+h1{
+    align-content: center;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-variant: small-caps;
+    font-weight: bolder;
+    font-size: x-large;
+    line-height: normal;
+    letter-spacing: normal;
+    word-spacing: normal;
+    white-space: normal;
+    vertical-align: baseline;
+    list-style-image: none;
+    list-style-type: none;
+    color: #6B6353;
+    text-decoration: none;
+    text-align: center;
+}
+background{
+    margin: 10px;
+    padding: 10px;
+    background-color: lemonchiffon
+
+}
+display{display: table-column-group
+
+
+}
+
+
+flexbox{flex: auto;
+flex-grow: 5px;
+flex-wrap: wrap;
+align-content:flex-start}
+
+
+
+
+
+h5{
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif" normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+	flex: auto;
+	flex-wrap: wrap;
+	align-content: center;
+	flex-grow: 5px;
+	flex-shrink: 5px;
+	image-orientation: auto;
+	image-resolution: from-image;
+	
+}
